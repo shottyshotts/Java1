@@ -1,0 +1,20 @@
+Line 1 contains 5 blanks.
+Line 2 contains 32 blanks.
+Line 3 contains 1 blanks.
+Line 4 contains 9 blanks.
+Line 5 contains 4 blanks.
+Line 6 contains 0 blanks.
+Line 7 contains 0 blanks.
+Line 8 contains 8 blanks.
+Line 9 contains 8 blanks.
+Line 10 contains 0 blanks.
+Line 11 contains 8 blanks.
+Line 12 contains 5 blanks.
+Line 13 contains 6 blanks.
+Line 14 contains 5 blanks.
+Line 15 contains 7 blanks.
+Line 16 contains 12 blanks.
+Line 17 contains 9 blanks.
+Line 18 contains 10 blanks.
+Line 19 contains 1 blanks.
+The approximate number of words in the file is: 149
